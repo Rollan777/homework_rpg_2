@@ -1,0 +1,37 @@
+# Compiled class files
+*.class
+out/
+bin/
+build/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Diagram source files (keep PDFs/images)
+*.drawio.bkp
+
+# Instructor-only files (not for students)
+INSTRUCTOR_NOTES.md
+PROJECT_SUMMARY.md
+00-START-HERE.md
